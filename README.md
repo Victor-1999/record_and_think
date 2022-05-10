@@ -1,1 +1,2 @@
-# record_and_think
+# 业余Coder的记录和思考
+
